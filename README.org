@@ -4,6 +4,6 @@ Deeds is an Extensible Event Delivery System
 
 |---------+-------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/deeds.git |
-| commit  | 0000000                                   |
+| commit  | c63502b                                   |
 | systems | deeds                                     |
 |---------+-------------------------------------------|
